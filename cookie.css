@@ -1,0 +1,33 @@
+body
+{
+	background-image : url("swirl_pattern.png");
+	padding-bottom : 40px;
+}
+
+#bouton, #multiplicateur, #affichage{
+    font: 95% Arial, Helvetica, sans-serif;
+    margin: 10px auto;
+    padding: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 70%;
+    padding: 3%;
+    background: #87bed8;
+    border-bottom: 2px solid #56848d;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;   
+    color: #fff;
+    /*background: #fffcb1;*/
+}
+
+#multiplicateur:hover {
+    background: #446890;
+}
+
+.clic {
+	font-size:50px;
+}
+
